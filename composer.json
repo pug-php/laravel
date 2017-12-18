@@ -1,0 +1,19 @@
+{
+    "name": "pug/pug",
+    "type": "library",
+    "keywords": ["jade", "pug", "laravel", "lumen", "phug", "template", "dialect", "html", "views", "render", "presentation", "html", "php", "phtml"],
+    "description": "Pug (ex-Jade) and Pug-Blade templates support for Laravel and Lumen, see: https://github.com/BKWLD/laravel-pug",
+    "license": "MIT",
+    "homepage": "https://github.com/BKWLD/laravel-pug",
+    "authors": [
+        {
+            "name": "KyleKatarn",
+            "email": "pug@selfbuild.fr",
+            "homepage": "http://github.com/kylekatarnls"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "bkwld/laravel-pug": "^1.5"
+    }
+}
