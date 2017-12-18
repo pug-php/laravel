@@ -1,5 +1,5 @@
 {
-    "name": "pug/pug",
+    "name": "pug/laravel",
     "type": "library",
     "keywords": ["jade", "pug", "laravel", "lumen", "phug", "template", "dialect", "html", "views", "render", "presentation", "html", "php", "phtml"],
     "description": "Pug (ex-Jade) and Pug-Blade templates support for Laravel and Lumen, see: https://github.com/BKWLD/laravel-pug",
