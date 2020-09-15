@@ -14,6 +14,6 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "bkwld/laravel-pug": "^1.5"
+        "bkwld/laravel-pug": "^2.0"
     }
 }
